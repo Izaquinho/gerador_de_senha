@@ -6,7 +6,7 @@ Este script em Python gera senhas seguindo o formato especificado: "3 letras (ab
 
 A senha gerada segue o formato:
 
-- `3 letras`: Letras selecionadas aleatoriamente entre letras definidas pelo usuário, exemplo ( a , b , c).
+- `3 letras`: Letras selecionadas aleatoriamente entre letras definidas pelo usuário, exemplo ( a , b , c ).
 - `2 caracteres`: Caracteres especiais selecionados aleatoriamente.
 - `4 dígitos de datas (dia e mês)`: Combinações de dia e mês geradas aleatoriamente.
   
@@ -20,7 +20,7 @@ A senha gerada segue o formato:
 
 ## ⚙️ Requisitos
 
-- Python 3.x
+- Python 3
 
 ## ✏️ Personalização
 
